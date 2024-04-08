@@ -1,0 +1,26 @@
+{"movie theatre and my tickets": [
+    {"showings": [{
+        "summary": "This is a test summary.",
+        "staring actors": "Type name(s) of the staring actor(s) here.",
+        "director": "Type name of the director here.",
+        "rating": "PG",
+        "genre": "Type the genre here.",
+        "run length": 180,
+        "index": 5,
+        "title": "Test1"
+    }]},
+    {"tickets": [
+        {
+            "index": 5,
+            "movie title": "Test1"
+        },
+        {
+            "index": 5,
+            "movie title": "Test1"
+        },
+        {
+            "index": 5,
+            "movie title": "Test1"
+        }
+    ]}
+]}
